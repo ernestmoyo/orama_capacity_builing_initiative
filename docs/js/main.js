@@ -1,5 +1,5 @@
 /* ============================================
-   OHCD - Oramah Human Capital Development
+   OCBI - Oramah Capacity Building Initiative
    Main JavaScript
    ============================================ */
 
